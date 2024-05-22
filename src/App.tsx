@@ -124,6 +124,8 @@ ne - no
 pla - please
 dani - thank you
 sen - is
+sen - am
+sen - are
 en - and
 ma - but
 o - or
